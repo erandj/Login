@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_t">Авторизация</string>
+    <string name="user_text_view_t">Пользователь:</string>
+    <string name="user_edit_text_t">введите имя</string>
+
+    <string name="password_text_view_t">Пароль:</string>
+    <string name="password_edit_text_t">введите пароль</string>
+
+    <string name="login_button_t">Войти</string>
+
+    <string name="attempts_t">Осталось попыток:</string>
+
+</resources>
